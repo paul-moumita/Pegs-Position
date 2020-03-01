@@ -1,6 +1,6 @@
-// ENPM 809Y RWA1
+
 // Author: Moumita Paul 
-// UID: 116860970
+
 
 #include <iostream>
 #include <vector>
